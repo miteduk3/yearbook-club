@@ -54,6 +54,9 @@ jobs:
     - name: lint
       run: npm run lint
 
+    - name: compile
+      run: npm run compile
+
     - name: Upload static files as artifact
       if: inputs.upload
       uses: actions/upload-pages-artifact@v1
