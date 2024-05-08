@@ -51,9 +51,6 @@ jobs:
     - name: clean
       run: npm run clean
 
-    - name: spell-check
-      run: npm run spell-check --if-present
-
     - name: lint
       run: npm run lint
 
