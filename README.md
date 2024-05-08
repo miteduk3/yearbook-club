@@ -1,3 +1,3 @@
 # website
 
-Simple Website Template
+The yearbook club main page
