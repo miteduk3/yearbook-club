@@ -54,12 +54,6 @@ jobs:
     - name: lint
       run: npm run lint
 
-    - name: Upload static files as artifact
-      if: inputs.upload
-      uses: actions/upload-pages-artifact@v1
-      with:
-        path: dist/
-
     ## end to end tests
     - name: Install Playwright Browsers
       if: inputs.test
