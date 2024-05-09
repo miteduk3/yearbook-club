@@ -54,6 +54,13 @@ module.exports = async (env, options) => {
                         to: "robots.txt",
                         from: "./src/robots.txt",
                     },
+                    {
+                        from: "./src/*.html",
+                        to: "[name].html",
+                        globOptions: {
+                            ignore: ["**/index.html"],
+                          },
+                    }
                 ],
             }),
         ],

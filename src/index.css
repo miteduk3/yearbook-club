@@ -1,31 +1,40 @@
 body {
-    background-color: white; /*TBD by the teacher*/
-  }
-  
-  .flex-container {
+    background: white; /*TBD by the teacher*/
+}
+
+.flex-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-size: 24pt;
-  }
-  
-  .rightcontainer {
+    font-size: 25pt;
+    background: black;
     color: white;
-    background-color: darkblue;
-    font-size: 12pt;
-  }
-  
-  
-  a:link{
+}
+
+.news-container{
+    background: orange;
+    color: red;
+    font-size: 32pt;
+    text-align: center;
+    border-radius: 12px;
+}
+
+section{
+    background-color:blueviolet;
+    margin:auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+a:link {
     color: white;
     text-decoration: none;
-  }
-  a:visited{
+}
+a:visited {
     color: white;
     text-decoration: none;
-  }
-  a:hover{
+}
+a:hover {
     color: lightgreen;
-  }
-  
-  
+}

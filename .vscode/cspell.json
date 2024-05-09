@@ -8,11 +8,14 @@
     // prettier-ignore
     "words": [
         "CODEOWNERS",
+        "dont",
         "eqeqeq",
         "linebreak",
         "markdownlint",
         "minifier",
-        "prettierrc"
+        "Omak",
+        "prettierrc",
+        "sponsers"
     ],
     // flagWords - list of words to be always considered incorrect
     // This is useful for offensive words and common spelling errors.
