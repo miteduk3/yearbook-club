@@ -1,5 +1,5 @@
 body {
-    background: white; /*TBD by the teacher*/
+    background: black; /*TBD by the teacher*/
 }
 
 .flex-container {
@@ -17,7 +17,16 @@ body {
     font-size: 32pt;
     text-align: center;
     border-radius: 12px;
+    font-weight: bold;
 }
+
+table{
+    color: white;
+    width: 490px;
+    border-color: black;
+    margin-bottom: 120px;
+}
+
 
 section {
     background-color: blueviolet;

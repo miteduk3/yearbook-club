@@ -7,9 +7,9 @@ Home page (made, not finished)
 
 About page (made, not finished)
 
-Requirements to join the club (made? (join-the-club), not finished)
+Requirements to join the club (finished, could be changed)
 
-Club Constitution
+Club Constitution (defined in "join the club" under "What we Do.")
 
 Club Officers (could be put in 'about team'?)
 
