@@ -5,17 +5,17 @@ Required pages:
 
 Home page (made, not finished)
 
-About page (made, not finished)
+About page (explained in join the club)
 
 Requirements to join the club (finished, could be changed)
 
-Club Constitution (defined in "join the club" under "What we Do.")
+Club Constitution (not sure what this is? so hopefully I got it)
 
 Club Officers (could be put in 'about team'?)
 
-Calendar of events
+Calendar of events (calendar page)
 
-Photo Gallery
+Photo Gallery (main page)
 
 News (News added on main page. Still could be changed.)
 
@@ -23,4 +23,4 @@ Documents and Forms for Download (dont think we have documents)
 
 Sponsors (dont think we have sponsers)
 
-Advisor contact information (can put in 'about team' under Mrs. Lamb?)
+Advisor contact information (put in how to join club)

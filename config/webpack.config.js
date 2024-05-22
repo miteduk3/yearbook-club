@@ -59,12 +59,12 @@ module.exports = async (env, options) => {
                         to: "[name].html",
                         globOptions: {
                             ignore: ["**/index.html"],
-                          },
+                          }
                     },
                     {
-                        to: "[name].png",
                         from: "./pictures/*.png",
-                    }
+                        to: "[name].png",
+                    },
                 ],
             }),
         ],

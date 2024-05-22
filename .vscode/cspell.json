@@ -7,14 +7,17 @@
     // words - list of words to be always considered correct
     // prettier-ignore
     "words": [
+        "Carden",
         "CODEOWNERS",
         "dont",
         "eqeqeq",
+        "Gump",
         "linebreak",
         "markdownlint",
         "minifier",
         "Omak",
         "prettierrc",
+        "Shayawna",
         "sponsers"
     ],
     // flagWords - list of words to be always considered incorrect
